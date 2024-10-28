@@ -4,7 +4,7 @@ let arrButton = Array.from(buttons);
 let string = "";
 arrButton.forEach((btn) => {
   btn.addEventListener("click", function (event) {
-    if (btn.innerHTML == "DEL") {
+    if (btn.value == "DEL") {
       string = string.substring(0, string.length - 1);
       display.value = string;
     } else if (btn.innerHTML == "AC") {
@@ -17,7 +17,7 @@ arrButton.forEach((btn) => {
       } else {
         display.value = string;
       }
-    } else if (btn.innerHTML === "**") {
+    } else if (btn.value === "**") {
       string = string ** 2;
       display.value = string;
       string = "";
