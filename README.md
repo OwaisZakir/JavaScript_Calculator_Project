@@ -1,12 +1,12 @@
 # JavaScript Calculator
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://owaiszakir.github.io/js-calculator/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://owaiszakir.github.io/JavaScript_Calculator_Project/)
 
 Ever wanted a simple yet effective calculator built right into your browser? This JavaScript Calculator might be just what you're looking for! Developed with HTML, CSS, and JavaScript, it’s designed to offer a clean, easy-to-use interface along with all essential features.
 
 ## 🚀 Live Demo
 
-Curious to see it in action? [Try the live demo here!](https://owaiszakir.github.io/js-calculator/)
+Curious to see it in action? [Try the live demo here!](https://owaiszakir.github.io/JavaScript_Calculator_Project/)
 
 ## ✨ Features
 
@@ -57,4 +57,4 @@ Want to dive into the code? Here’s how to get started:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/owaiszakir/js-calculator.git
+   git clone https://github.com/owaiszakir/JavaScript_Calculator_Project.git
